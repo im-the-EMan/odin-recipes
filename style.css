@@ -1,3 +1,50 @@
 *{
     font-family: 'Trebuchet MS', Tahoma, Verdana, sans-serif;
 }
+
+body{
+    background-color: rgb(227, 206, 168);
+}
+
+h1{
+    border: 7px ridge rgb(155, 89, 2);
+    background-color: blanchedalmond;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+ul{
+    border: 7px ridge rgb(155, 89, 2);
+    padding: 17px;
+    text-align: center;
+    width: 700px;
+    height: 1000px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+li{
+    border: 5px solid white;
+    background-color: wheat;
+    height: 300px;
+    width: 690px;
+    list-style: none;
+    font-size: 50px;
+}
+
+.pizza a{
+    color: darkred;
+    text-decoration: none;
+}
+
+.fries a{
+    color: darkorange;
+    text-decoration: none;
+}
+
+.garlic-knots a{
+    color: darkolivegreen;
+    text-decoration: none;
+}
