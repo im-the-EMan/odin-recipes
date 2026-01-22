@@ -1,3 +1,67 @@
+
+/*FIGURE OUT PROBLEM WITH IMAGE*/
+
+
 *{
     font-family: 'Trebuchet MS', Tahoma, Verdana, sans-serif;
+}
+
+body{
+    background-color: rgb(227, 206, 168);
+}
+
+div{
+    border: 7px ridge rgb(155, 89, 2);
+    background-color: blanchedalmond;
+    width: 1900px;
+    margin: auto;
+}
+
+h1{
+    border: 7px ridge rgb(155, 89, 2);
+    background-color: blanchedalmond;
+    padding: 17px;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 30px;
+
+}
+
+h5{
+    text-align: center;
+}
+
+h2{
+    margin-left: 100px;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+p{
+    margin-left: 150px
+}
+
+ol li{
+    margin-left: 150px
+}
+
+ul li{
+    margin-left: 150px;
+}
+
+.Home{
+   display: block;
+   box-sizing: border-box;
+   width: 110px;
+   margin: 200px 100px;
+   border-radius: 3px;
+   font-size: 20px;
+   text-align: center;
+   text-decoration: none;
+   background-color: rgb(155, 89, 2);
+   padding: 10px;
+   color: white
 }
