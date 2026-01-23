@@ -26,25 +26,30 @@ ul{
 }
 
 li{
+    box-sizing: border-box;
     border: 5px solid white;
-    background-color: wheat;
-    height: 300px;
+    background-color: rgb(227, 206, 168);
+    height: 330px;
     width: 690px;
     list-style: none;
     font-size: 50px;
+    padding-top: 135px;
 }
 
 .pizza a{
     color: darkred;
     text-decoration: none;
+    font-weight: 700;
 }
 
 .fries a{
-    color: darkorange;
+    color: rgb(190, 102, 1);
     text-decoration: none;
+    font-weight: 700;
 }
 
 .garlic-knots a{
     color: darkolivegreen;
     text-decoration: none;
+    font-weight: 700;
 }
