@@ -1,3 +1,77 @@
 *{
     font-family: 'Trebuchet MS', Tahoma, Verdana, sans-serif;
 }
+
+body{
+    background-color: rgb(227, 206, 168)
+}
+
+h1{
+      border: 7px ridge rgb(155, 89, 2);
+    background-color: blanchedalmond;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+img{
+    display: block;
+    width: 512px;
+    margin: auto;
+    margin-top: 17px;
+}
+
+h5{
+    width: fit-content;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div{
+    border: 7px ridge rgb(155, 89, 2);
+    background-color: blanchedalmond;
+    width: 1400px;
+    margin: auto;
+}
+
+h2{
+    margin-left: 100px;
+}
+
+p{
+    margin-left: 150px;
+}
+
+.pizzalink{
+    text-decoration: none;
+    color:darkred;
+}
+
+.nytlink{
+    text-decoration: none;
+    color: rgb(0, 81, 255);
+}
+
+ul li{
+     margin-left: 150px;
+}
+
+ol li{
+    margin-left: 150px;
+}
+
+.home{
+   display: block;
+   box-sizing: border-box;
+   width: 110px;
+   margin: 50px 100px;
+   border-radius: 3px;
+   font-size: 20px;
+   text-align: center;
+   text-decoration: none;
+   background-color: rgb(155, 89, 2);
+   padding: 10px;
+   color: white
+}
